@@ -7,8 +7,9 @@
       <sourceFolder url="file://$MODULE_DIR$/github-issues-miner/src/mining" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/github-issues-miner/src/db" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/github-issues-miner/src/model" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/github-issues-miner/src/emails" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.6.3 (~/anaconda3/bin/python)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.5 (github-issues-miner)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
